@@ -5,7 +5,8 @@ A new Flutter project.
 ## Getting Started
 This app uses GET CLI CLEAN Architechture and dio for http connection and getx for state management. The api connectivity module is mine so do not copy.
 This project is a starting point for a Flutter application.
-
+Direct apk link:->
+https://drive.google.com/file/d/19ZgykED_h4aSlUaRC5aNz8LIm_L4k-DY/view?usp=drive_link
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
